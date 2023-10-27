@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://jhufredl.github.io/lists-27oct23-alen/)
+[Live Demo Link](https://jhufredl.github.io/lists-odin-project-27oct23-alen/)
 
 
 ## Getting Started
